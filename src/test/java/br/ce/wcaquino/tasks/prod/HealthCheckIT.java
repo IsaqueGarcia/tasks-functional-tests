@@ -13,6 +13,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class HealthCheckIT {
 
+	/*
 	@Test
 	public void healthCheck() throws MalformedURLException {
 		DesiredCapabilities cap = DesiredCapabilities.chrome();
@@ -26,4 +27,5 @@ public class HealthCheckIT {
 			driver.quit();
 		}
 	}
+	*/
 }
